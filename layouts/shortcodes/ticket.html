@@ -2,10 +2,8 @@
 <div class="ticket-name">{{ .Get "name"}}</div>
 <div class="ticket-price">{{ .Get "price" }}</div>
 <div class="ticket-date">
-{{-
-	$starts := time (.Get "starts")
-	$ends := time (.Get "ends")
--}}
+{{- $starts := time (.Get "starts") -}}
+{{- $ends := time (.Get "ends") -}}
 {{- $starts.Day -}}&nbsp;{{- dateFormat "Jan." $starts -}}&nbsp;{{- $starts.Year -}}
 &nbsp;&hyphen;&nbsp;
 {{- $ends.Day -}}&nbsp;{{- dateFormat "Jan." $ends -}}&nbsp;{{- $ends.Year -}}
