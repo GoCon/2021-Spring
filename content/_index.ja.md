@@ -57,7 +57,7 @@ Go Conferenceは半年に1回行われるプログラミング言語Goに関す�
 
 {{% /partners %}}
 
-<div style="text-align: center;">
+<div style="text-align: center; margin-bottom: 20px;">
 
 ## スポンサー希望の企業様へ
 スポンサーシッププランをご参照ください
