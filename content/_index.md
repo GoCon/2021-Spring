@@ -34,12 +34,11 @@ Go Conference is a half-annual conference of programming language Go in Tokyo.
                 icon="right" >}}
 {{% /home-speakers %}}
 
-
 {{% home-tickets %}}
 # Registration
 
 <ul>
-<li>{{<ticket name="Volunteer Staff"
+<li>{{<ticket name="Free Ticket"
            starts="2021-03-29"
            ends="2021-04-24"
            price="0 JPY"
@@ -61,6 +60,15 @@ Go Conference is a half-annual conference of programming language Go in Tokyo.
 # Partners
 {{% /partners %}}
 
+<div style="text-align: center; margin-bottom: 20px;">
+
+## For partners
+If your company wants to sponsor, show the following slides:
+
+{{% button-link label="See Sponsership plans"
+                url="https://drive.google.com/file/d/14ShYTQB7DrSiyLxsBaFxa-snwS4jW1Im/view?usp=sharing"
+                icon="link" %}}
+</div>
 <!-- ... -->
 
 <!-- ... -->
