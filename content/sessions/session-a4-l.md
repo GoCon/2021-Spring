@@ -1,6 +1,6 @@
 ---
 key: a4-l
-title: xxxxx
+title: 調整中
 id: a4-l
 format: conference
 talkType: long_session
@@ -13,6 +13,3 @@ videoId: null
 presentation: null
 draft: false
 ---
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

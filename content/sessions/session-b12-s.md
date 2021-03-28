@@ -1,6 +1,6 @@
 ---
 key: b12-s
-title: xxxxx
+title: 調整中
 id: b12-s
 format: conference
 talkType: short_session
@@ -13,6 +13,3 @@ videoId: null
 presentation: null
 draft: false
 ---
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

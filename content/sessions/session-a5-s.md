@@ -14,9 +14,9 @@ presentation: null
 draft: false
 ---
 Building an effective fallback in a distributed system can be hard. Should our systems simply give up during an outage then? Or can we do better?
-
 Join to learn some of the challenges of building a fallback and how we overcame them to reduce business impact, and not leave all our users stranded.
 
+---
 Lyft is ride hailing app that helps users find nearby drivers and quickly get to a place they want to go. If Lyft is down, users cannot be matched with drivers and the drivers are not able to make money on the platform. Thus, it is critical we do our best to keep our systems always available.
 However, there are several reasons distributed fallback strategies fail in practice:
 
