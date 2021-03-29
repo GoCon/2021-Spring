@@ -13,10 +13,9 @@ videoId: null
 presentation: null
 draft: false
 ---
-Azure REST API や Microsoft Graph API といった Microsoft クラウドサービスの API 向けの Go SDK のアーキテクチャ、開発体制、コード生成戦略、最新動向について紹介します。現在開発進行中の新バージョンや Terraform のような周辺ツールとの関係についても触れます。
----
-Azure REST API や Microsoft Graph API といった Microsoft クラウドサービスの API 向けの Go SDK のアーキテクチャ、開発体制、コード生成戦略、最新動向について紹介します。現在開発進行中の新バージョンや Terraform のような周辺ツールとの関係についても触れます。
+Azure REST API や Microsoft Graph API といった Microsoft クラウドサービスの API 向けの Go SDK のアーキテクチャ、開発体制、コード生成戦略、最新動向について紹介します。現在開発進行中の新バージョンや Terraform のような周辺ツールとの関係についても触れます。o
 
+---
 主に次のプロジェクトで進行中の出来事について説明します。
 
 - <https://github.com/Azure/azure-sdk-for-go>
@@ -26,6 +25,3 @@ Azure REST API や Microsoft Graph API といった Microsoft クラウドサー
 - <https://github.com/hashicorp/terraform-provider-azuread>
 - <https://github.com/yaegashi/msgraph.go>
 - <https://github.com/yaegashi/terraform-provider-msgraph>
-�ータ連携が可能であり、2019年初めにβ版から正式版となり東京リージョンが増えたことでアプリ開発における重要性が高まっている。
-  - 一方で、まだ新しい技術であるため、商用利用している人もまだ少なく、Goで扱うための知見やツールについても、まだまとまったものはないように思う。
-  - 発表者は、業務にてFirestoreをメインDBとして開発した商用アプリ[SpoLive](https://spolive.ntt.com/)において、主にそのバックエンド(Firestoreへのデータ連携)を担当している。この開発における知見を共有する。
