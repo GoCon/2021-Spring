@@ -3,12 +3,12 @@ key: lt2
 title: Microsoft Azure 向け Go SDK の最新動向・開発体制・コード生成戦略
 id: lt2
 format: conference
-talkType: lightning_talk
+talkType: lt_session
 level: intermediate
 tags:
-- LT2
+  - LT2
 speakers:
-- yaegashi_takeshi
+  - yaegashi_takeshi
 videoId: null
 presentation: null
 draft: false

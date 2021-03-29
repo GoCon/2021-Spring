@@ -3,17 +3,18 @@ key: lt7
 title: 'Fabricating Community : One Byte At A Time'
 id: lt7
 format: conference
-talkType: lightning_talk
+talkType: lt_session
 level: all
 tags:
-- LT7
+  - LT7
 speakers:
-- rashmi_nagpal
+  - rashmi_nagpal
 videoId: null
 presentation: null
 draft: false
 ---
 From founding & running non-profit tech-community & being a sole women founder in a country of social restrictions, I would love to share the importance of having tech-community & how one can build/nurture it from absolute zero.
+
 ---
 Can you help me in making a difference? Can we build a welcoming, diverse and inclusive community or can we be ONE?
 Allow me to share my experiences and lesson’s learnt to get involved in the Go community.

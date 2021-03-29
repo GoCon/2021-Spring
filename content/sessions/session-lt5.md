@@ -3,12 +3,12 @@ key: lt5
 title: Go言語仕様書にコントリビュートしよう
 id: lt5
 format: conference
-talkType: lightning_talk
+talkType: lt_session
 level: intermediate
 tags:
-- LT5
+ - LT5
 speakers:
-- dqneo
+  - dqneo
 videoId: null
 presentation: null
 draft: false
@@ -20,6 +20,7 @@ Go言語仕様書はGo言語の公式ドキュメントの中でも最も重要�
 
 どこに着目して、どのように考え、どのように提案したか、実例をもとに紹介します。
 みんなでGo言語仕様を良いものにしていきましょう！
+
 ---
 * 言語仕様書に複数回コントリビュートしました
 * 仕様書にはあいまいな表現がわりとよくある

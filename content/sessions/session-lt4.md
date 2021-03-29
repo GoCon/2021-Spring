@@ -3,17 +3,18 @@ key: lt4
 title: How do I made a powerful cache system using Go
 id: lt4
 format: conference
-talkType: lightning_talk
+talkType: lt_session
 level: all
 tags:
-- LT4
+  - LT4
 speakers:
-- sylvain
+  - sylvain
 videoId: null
 presentation: null
 draft: false
 ---
 I’m Træfik user since v1.4 but there was no caching system. I scrolled over the internet to know if any solution exists but nothing appear then I decided to write my own Træfik cache system.
+
 ---
 I discovered Go language but didn’t have any time to follow multiples tutorials to learn it. But one day I discovered Træfik reverse-proxy project when I wanted to switch my infrastructure into fully dockerized one. I’m Træfik user since v1.4 but after many months using it I encountered an issue : there were no caching system in this reverse-proxy. I scrolled over the internet to know if any solution exists but nothing appears.
 

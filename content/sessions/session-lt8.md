@@ -3,19 +3,20 @@ key: lt8
 title: CloudFirestoreとGo
 id: lt8
 format: conference
-talkType: lightning_talk
+talkType: lt_session
 level: intermediate
 tags:
-- LT8
+  - LT8
 speakers:
-- mtskhs
+  - mtskhs
 videoId: null
 presentation: null
 draft: false
 ---
-FirebaseOpenSourceにも掲載されているFirestoreの運用ツール(https://firebaseopensource.com/projects/matsu0228/fsrpl/)を開発した発表者が、FirestoreをGoで扱うための知見や、ツールfsrplについて発表する。Firestoreは近年アプリ開発においてますます重要となっているが、Goにおける知見やツールはまだ少ない。
+FirebaseOpenSourceにも掲載されているFirestoreの運用ツール[fsrpl](https://firebaseopensource.com/projects/matsu0228/fsrpl/)を開発した発表者が、FirestoreをGoで扱うための知見や、ツールfsrplについて発表する。Firestoreは近年アプリ開発においてますます重要となっているが、Goにおける知見やツールはまだ少ない。
 
 本発表では知見として、FirestoreをGoで扱うための基礎やツールfsrplを紹介する。
+
 ---
 ## Purpose
 
