@@ -37,10 +37,10 @@
           talk: a11-s
         - slot: a-rest-4
           talk: break
-        - slot: a3-c
-          talk: a3-c
-        - slot: a4-c
-          talk: a4-c
+        - slot: a12-c
+          talk: a12-c
+        - slot: a13-c
+          talk: a13-c
         - slot: a-rest-5
           talk: break
         - slot: lt1
