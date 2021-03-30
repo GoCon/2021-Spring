@@ -1,12 +1,12 @@
 ---
-key: a12-s
+key: b11-s
 title: 調整中
-id: a12-s
+id: b11-s
 format: conference
 talkType: short_session
 level: all
 tags:
-  - A12-S
+  - B12-S
 speakers:
   - xxxxx
 videoId: null
