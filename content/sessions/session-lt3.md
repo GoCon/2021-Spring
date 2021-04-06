@@ -16,7 +16,7 @@ draft: false
 How about saving yourself from natural traps? How about saving yourself from faulty assumptions and loopholes in details? Fear not! Let's delve deeper into the most simplistic and fun language, i.e. Go with care!
 
 ---
-GO is one of the simplistic, neat and effective language but it has few gotchas. These gotchas run the gamut from minor syntactic annoyances to psychological behaviour. By sharing the invaluable references - this talk will give the taste of various gotchas which will henceforth save Go programmer's time and wasted effort.
+Go is one of the simplistic, neat and effective language but it has few gotchas. These gotchas run the gamut from minor syntactic annoyances to psychological behaviour. By sharing the invaluable references - this talk will give the taste of various gotchas which will henceforth save Go programmer's time and wasted effort.
 From beginner to expert level, everyone is warmly welcomed since the examples shared will cover a breadth of opportunities to learn from.
 
 Some of the examples of gotchas could be:-
