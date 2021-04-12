@@ -1,6 +1,6 @@
 ---
 key: bengoshi
-title: 株式会社弁護士ドットコム
+title: 弁護士ドットコム株式会社
 category: silver
 order: 2
 logo: /images/partners/logo-bengoshi.png
