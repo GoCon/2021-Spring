@@ -42,11 +42,18 @@ Go Conferenceは半年に1回行われるプログラミング言語Goに関す�
 # 参加登録
 
 <ul>
-<li>{{<ticket name="当日スタッフ"
+<li>{{<ticket name="セッション"
            starts="2021-03-29"
            ends="2021-04-24"
            price="無料"
-           url="https://gocon.connpass.com/event/xxxxx/">}}</li>
+           url="https://gocon.connpass.com/event/208896/">}}</li>
+
+<li>{{<ticket name="懇親会 & ハンズオン"
+           starts="2021-03-29"
+           ends="2021-04-24"
+           price="無料"
+           url="https://gocon.connpass.com/event/209271/">}}
+</li>
 </ul>
 
 {{% /home-tickets %}}
