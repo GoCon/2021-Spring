@@ -36,6 +36,10 @@ Go Conferenceは半年に1回行われるプログラミング言語Goに関す�
                 url="./speakers"
                 icon="right" >}}
 
+{{% button-link label="Ask the speakers"
+url="https://app.sli.do/event/xchxcoals"
+icon="right" %}}
+
 {{% /home-speakers %}}
 
 {{% home-tickets %}}
