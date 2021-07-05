@@ -1,4 +1,5 @@
-baseURL = "http://gocon.jp/"
+baseURL = "https://gocon.jp/2021spring"
+canonifyURLs = true
 languageCode = "ja"
 title = "Go Conference 2021 Spring"
 theme = "devfest-theme-hugo"
