@@ -11,6 +11,13 @@
         "source": "**",
         "destination": "/index.html"
       }
+    ],
+    "redirects": [
+      {
+        "source": "/2021autumn",
+        "destination": "https://gocon.connpass.com/event/213865/",
+        "type": 302
+      }
     ]
   }
 }
