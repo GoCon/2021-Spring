@@ -1,6 +1,7 @@
 # Go Conference 2021 Spring
 
-[![CircleCI](https://circleci.com/gh/GoCon/2021-Spring.svg?style=svg)](https://app.circleci.com/pipelines/github/GoCon/2021-Spring?branch=main)
+![GitHub Actions](https://github.com/GoCon/2021-Spring/actions/workflows/ci.yml/badge.svg?branch=main)
+
 
 ## 必要なもの
 
