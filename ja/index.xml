@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ホーム on Go Conference 2021 Spring</title>
+    <link>https://gocon.jp/2021spring/ja/</link>
+    <description>Recent content in ホーム on Go Conference 2021 Spring</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language><atom:link href="https://gocon.jp/2021spring/ja/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>オフィスアワー</title>
+      <link>https://gocon.jp/2021spring/ja/sessions/officehour/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gocon.jp/2021spring/ja/sessions/officehour/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>オープニング</title>
+      <link>https://gocon.jp/2021spring/ja/sessions/opening/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gocon.jp/2021spring/ja/sessions/opening/</guid>
+      <description>Opening talk.</description>
+    </item>
+    
+    <item>
+      <title>クロージング</title>
+      <link>https://gocon.jp/2021spring/ja/sessions/closing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gocon.jp/2021spring/ja/sessions/closing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ハンズオン &amp; オフィスアワー</title>
+      <link>https://gocon.jp/2021spring/ja/sessions/_handson_officehour/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gocon.jp/2021spring/ja/sessions/_handson_officehour/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ランチ休憩</title>
+      <link>https://gocon.jp/2021spring/ja/sessions/_lunch/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gocon.jp/2021spring/ja/sessions/_lunch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>休憩</title>
+      <link>https://gocon.jp/2021spring/ja/sessions/_break/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gocon.jp/2021spring/ja/sessions/_break/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>懇親会</title>
+      <link>https://gocon.jp/2021spring/ja/sessions/party/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gocon.jp/2021spring/ja/sessions/party/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

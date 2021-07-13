@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>HO1 on Go Conference 2021 Spring</title>
+    <link>https://gocon.jp/2021spring/tags/ho1/</link>
+    <description>Recent content in HO1 on Go Conference 2021 Spring</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language><atom:link href="https://gocon.jp/2021spring/tags/ho1/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>数で遊ぼう 〜 コマンドラインツールで数を操る</title>
+      <link>https://gocon.jp/2021spring/sessions/handson1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gocon.jp/2021spring/sessions/handson1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

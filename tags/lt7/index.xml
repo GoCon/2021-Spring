@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>LT7 on Go Conference 2021 Spring</title>
+    <link>https://gocon.jp/2021spring/tags/lt7/</link>
+    <description>Recent content in LT7 on Go Conference 2021 Spring</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language><atom:link href="https://gocon.jp/2021spring/tags/lt7/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fabricating Community : One Byte At A Time</title>
+      <link>https://gocon.jp/2021spring/sessions/session-lt7/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gocon.jp/2021spring/sessions/session-lt7/</guid>
+      <description>From founding &amp;amp; running non-profit tech-community &amp;amp; being a sole women founder in a country of social restrictions, I would love to share the importance of having tech-community &amp;amp; how one can build/nurture it from absolute zero.
+ Can you help me in making a difference? Can we build a welcoming, diverse and inclusive community or can we be ONE? Allow me to share my experiences and lesson’s learnt to get involved in the Go community.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>LT8 on Go Conference 2021 Spring</title>
+    <link>https://gocon.jp/2021spring/tags/lt8/</link>
+    <description>Recent content in LT8 on Go Conference 2021 Spring</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language><atom:link href="https://gocon.jp/2021spring/tags/lt8/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CloudFirestoreとGo</title>
+      <link>https://gocon.jp/2021spring/sessions/session-lt8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gocon.jp/2021spring/sessions/session-lt8/</guid>
+      <description>FirebaseOpenSourceにも掲載されているFirestoreの運用ツールfsrplを開発した発表者が、FirestoreをGoで扱うための知見や、ツールfsrplについて発表する。Firestoreは近年アプリ開発においてますます重要となっているが、Goにおける知見やツールはまだ少ない。
+本発表では知見として、FirestoreをGoで扱うための基礎やツールfsrplを紹介する。
+ Purpose   CloudFirestore(以降、Firestoreと呼ぶ)をGoで扱うための知見共有
+ 公式ライブラリ Firebase Admin Go SDK の使い方 NoSQLであるFirestoreをGoらしく扱うための方法 RDBとの違いを踏まえて開発する方法    Firestoreの運用開発における課題と、開発したCLIツールfsrplの紹介
+  Firestoreだけに限らず、Goにおけるデータ変換テクニックや、NoSQLをGoで扱う方法といった一般的な知見の共有
+  Why Firestore  Firestoreは、ドキュメント指向のNoSQLデータベースである。特徴としてWebsocket通信によるリアルタイムでのデータ連携が可能であり、2019年初めにβ版から正式版となり東京リージョンが増えたことでアプリ開発における重要性が高まっている。  一方で、まだ新しい技術であるため、商用利用している人もまだ少なく、Goで扱うための知見やツールについても、まだまとまったものはないように思う。 発表者は、業務にてFirestoreをメインDBとして開発した商用アプリSpoLiveにおいて、主にそのバックエンド(Firestoreへのデータ連携)を担当している。この開発における知見を共有する。    </description>
+    </item>
+    
+  </channel>
+</rss>

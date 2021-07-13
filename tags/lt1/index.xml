@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>LT1 on Go Conference 2021 Spring</title>
+    <link>https://gocon.jp/2021spring/tags/lt1/</link>
+    <description>Recent content in LT1 on Go Conference 2021 Spring</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language><atom:link href="https://gocon.jp/2021spring/tags/lt1/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Understanding the Statistics in SQL Server</title>
+      <link>https://gocon.jp/2021spring/sessions/session-lt1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gocon.jp/2021spring/sessions/session-lt1/</guid>
+      <description>Are you new to performance tuning and confounded by statistics? Do you wonder where these statistics come from, and how the optimizer gets the estimates from statistics? Join me and learn more
+ Join me as we dive deep into cardinality estimation, how SQL Server uses statistics to build execution plans, where to find information about how statistics got used and why managing statistics is vital to performance.
+This session will have awesome demos showcasing practical examples of how the optimizer uses statistical information for all those crazy queries you write.</description>
+    </item>
+    
+  </channel>
+</rss>

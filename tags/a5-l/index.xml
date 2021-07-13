@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A5-L on Go Conference 2021 Spring</title>
+    <link>https://gocon.jp/2021spring/tags/a5-l/</link>
+    <description>Recent content in A5-L on Go Conference 2021 Spring</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language><atom:link href="https://gocon.jp/2021spring/tags/a5-l/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Go言語低レイヤー入門 Hello world が画面に表示されるまで</title>
+      <link>https://gocon.jp/2021spring/sessions/session-a5-l/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gocon.jp/2021spring/sessions/session-a5-l/</guid>
+      <description>fmt.Print(&amp;ldquo;hello world\n&amp;rdquo;) この hello world がターミナルに表示されるまで、Go言語の処理系でどのようなことが行われているか、考えたことはあるでしょうか？
+本トークでは、fmt.Print() の呼び出しを底の底まで探り、Go言語の処理系がOSとどのように相互作用して画面に文字を表示するのかを詳しく解説します。
+このトークを聞くことで、あなたは下記の領域へのとっかかりを得ることができるようになるでしょう。
+ Go言語とシステムコールの関係 Goアセンブリの読み方 自分でシステムコールを叩く方法 自作Goコンパイラの始め方    最小のプログラムはどう動いてるのか Go言語とruntime Go言語とシステムコール Hello world のシステムコールを見てみよう (strace, gdb, コードリーディング) Goアセンブリの読み方 Hello world を低レイヤー版で書き直す (ライブコーディング)  </description>
+    </item>
+    
+  </channel>
+</rss>

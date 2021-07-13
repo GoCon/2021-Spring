@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>B4-S on Go Conference 2021 Spring</title>
+    <link>https://gocon.jp/2021spring/tags/b4-s/</link>
+    <description>Recent content in B4-S on Go Conference 2021 Spring</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language><atom:link href="https://gocon.jp/2021spring/tags/b4-s/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>cobra-cmder: Goの言語機能を活用したシンプルなCLIツール構成法</title>
+      <link>https://gocon.jp/2021spring/sessions/session-b4-s/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gocon.jp/2021spring/sessions/session-b4-s/</guid>
+      <description>この講演では筆者が愛用するcobra-cmderというライブラリと共に構成するGoのCLIツールの開発手法について紹介します。cobra-cmderは既存の著名なライブラリであるspf13/cobraを利用していますが、リフレクションや構造体埋め込みといったGoの言語機能の活用によりCLIツールのシンプルな実装を実現していることが特徴です。グローバル変数やinit()を使わず、サブコマンド単位の共通のデータ変数・関数の管理やユニットテストが簡便であり、またサブコマンドの追加も既存コードの変更なしで可能という利点があります。筆者がこれまでに作成したCLIツールの事例とあわせて説明します。
+講演で取り上げるライブラリ cobra-cmder および CLI ツール事例は次の場所にあります。
+ https://github.com/yaegashi/cobra-cmder https://github.com/yaegashi/contest.go https://github.com/yaegashi/azbill https://github.com/yaegashi/customazed  </description>
+    </item>
+    
+  </channel>
+</rss>

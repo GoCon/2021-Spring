@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A4-S on Go Conference 2021 Spring</title>
+    <link>https://gocon.jp/2021spring/tags/a4-s/</link>
+    <description>Recent content in A4-S on Go Conference 2021 Spring</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language><atom:link href="https://gocon.jp/2021spring/tags/a4-s/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Going places...during an outage</title>
+      <link>https://gocon.jp/2021spring/sessions/session-a4-s/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gocon.jp/2021spring/sessions/session-a4-s/</guid>
+      <description>Building an effective fallback in a distributed system can be hard. Should our systems simply give up during an outage then? Or can we do better? Join to learn some of the challenges of building a fallback and how we overcame them to reduce business impact, and not leave all our users stranded.
+ Lyft is ride hailing app that helps users find nearby drivers and quickly get to a place they want to go.</description>
+    </item>
+    
+  </channel>
+</rss>

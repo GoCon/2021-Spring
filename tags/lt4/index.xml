@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>LT4 on Go Conference 2021 Spring</title>
+    <link>https://gocon.jp/2021spring/tags/lt4/</link>
+    <description>Recent content in LT4 on Go Conference 2021 Spring</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language><atom:link href="https://gocon.jp/2021spring/tags/lt4/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How do I made a powerful cache system using Go</title>
+      <link>https://gocon.jp/2021spring/sessions/session-lt4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gocon.jp/2021spring/sessions/session-lt4/</guid>
+      <description>I’m Træfik user since v1.4 but there was no caching system. I scrolled over the internet to know if any solution exists but nothing appear then I decided to write my own Træfik cache system.
+ I discovered Go language but didn’t have any time to follow multiples tutorials to learn it. But one day I discovered Træfik reverse-proxy project when I wanted to switch my infrastructure into fully dockerized one.</description>
+    </item>
+    
+  </channel>
+</rss>

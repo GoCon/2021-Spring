@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>B5-L on Go Conference 2021 Spring</title>
+    <link>https://gocon.jp/2021spring/tags/b5-l/</link>
+    <description>Recent content in B5-L on Go Conference 2021 Spring</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language><atom:link href="https://gocon.jp/2021spring/tags/b5-l/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mastering Tags of Structs - Goの構造体とタグを極める</title>
+      <link>https://gocon.jp/2021spring/sessions/session-b5-l/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gocon.jp/2021spring/sessions/session-b5-l/</guid>
+      <description>Struct and its tag are important building blocks to create large applications. They reduce boring codes and make application more declarative and help to write enterprise application, but creating library to process tag requires much amount of code with reflection / typing.
+Goで大規模アプリケーションを作るためのビルディングブロックは、構造体とタグです。手続き的なコードを減らし、宣言的に解決する手法はGoをエンタープライズ開発で活用するためにますます必要となると思いますが、自作するにはタグを処理するコーディングは多数の型を網羅するコーディングが必要で長くなります。
+This presentation introduce tag processing patterns that uses reflect package and understanding about tag, and how to handle tag to the people who are responsible for Go application architecture.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A7-S on Go Conference 2021 Spring</title>
+    <link>https://gocon.jp/2021spring/tags/a7-s/</link>
+    <description>Recent content in A7-S on Go Conference 2021 Spring</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language><atom:link href="https://gocon.jp/2021spring/tags/a7-s/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Go製のネットワーククライアントに対する継続的Fuzzing</title>
+      <link>https://gocon.jp/2021spring/sessions/session-a7-s/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gocon.jp/2021spring/sessions/session-a7-s/</guid>
+      <description>Fuzzing とは fuzz と呼ばれる予測不可能なデータをインプットとして与えることによりその不具合を発見するテスト手法です。このセッションでは Fuzzing の概要、Goで書かれたソフトウェアに対する Fuzzing の手法、クレジットカード決済のためのISO8583というプロトコルを話すGoで書かれたネットワーククライアントに対して実践している継続的Fuzzingの実例について紹介します。
+  Fuzzing とは Go で書かれたソフトウェアに対する Fuzzing 継続的に Fuzzing を行っている実例と課題  </description>
+    </item>
+    
+  </channel>
+</rss>

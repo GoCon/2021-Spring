@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>B6-S on Go Conference 2021 Spring</title>
+    <link>https://gocon.jp/2021spring/tags/b6-s/</link>
+    <description>Recent content in B6-S on Go Conference 2021 Spring</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language><atom:link href="https://gocon.jp/2021spring/tags/b6-s/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dive into Go Protocol Buffers API v2 with the new reflection features</title>
+      <link>https://gocon.jp/2021spring/sessions/session-b6-s/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gocon.jp/2021spring/sessions/session-b6-s/</guid>
+      <description>Protocol Buffers API v2が2020年にリリースされました。v2では、コード生成のライブラリなど開発者のインターフェースに関わる変更に加えて、Reflectionのサポートが提供されるようになりました。このReflection機能は、GoのビルトインのReflectionのように、Protocol Buffersのメッセージを動的に操作・参照することを可能にしてくれます。このトークでは、v2がリリースされた背景や変更点にも触れつつ、このReflection機能に焦点をあてて、サンプルコードを用いたりソースを追いかけながら使い方を紹介していきたいと思います。
+ 得られること  Protocol Buffers API v2がリリースされた背景と大きな変更点 protoreflectの機能を使うことで何ができるか、実際にどのように使えばいいのか  主な対象者  Protocol Buffers(gRPC含む)を使っている方 Protocol Buffers API v2でなにができるようになったのか、とりあえず知っておきたい方 Protocol Buffers(gRPC含む)に対して、動的なメッセージ操作・参照をしてみたい方 protoreflectを多少触ってみたけど、まだよくわかっていない方  主なアジェンダ  Why was the API v2 released? What was the remarkable changes on v2? Dive into protoreflect  メインのアジェンダでは、実際のユースケースを想定したコードを用いて、protoreflectの具体的な使い方を説明します。その中で、内部実装やライブラリの全体像についても触れたいと思います。
+また、Protocol Buffersをそもそも触ったことがない方にも向けて、最低限ですが、そもそもProtocol Buffersがどんなものであるかも説明したいと思います。</description>
+    </item>
+    
+  </channel>
+</rss>

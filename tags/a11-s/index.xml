@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A11-S on Go Conference 2021 Spring</title>
+    <link>https://gocon.jp/2021spring/tags/a11-s/</link>
+    <description>Recent content in A11-S on Go Conference 2021 Spring</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language><atom:link href="https://gocon.jp/2021spring/tags/a11-s/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FlutterとGoを組み合わせたモバイルアプリケーション開発</title>
+      <link>https://gocon.jp/2021spring/sessions/session-a11-s/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gocon.jp/2021spring/sessions/session-a11-s/</guid>
+      <description>FlutterはGoogleが開発したクロスプラットフォーム向けモバイルアプリケーションフレームワークです。
+しかし、現実的にはiOS/Androidのためにそれぞれコードを書く場合は避けられません。その量が肥大化するにつれてFlutterの魅力は半減してしまいます。
+そこで今回はできる限りiOS/Android用にコードを書くことを避けるために、Flutterからgo mobileで作成したiOS/Android用に作成したSDKを利用する方法とそのパターンをご紹介します。
+ 目標 このトークの目標は「クロスプラットフォームなモバイルアプリ開発でgoの活用できること」を伝えることです。
+課題 FlutterはGoogleが開発したクロスプラットフォーム向けではあるものの、 過去の資産を利用するためにAndroid/iOS用にそれぞれ別ライブラリや記述することは避けられません。 結果として意図せぬ依存を生むことになってしまい、バグを含む原因となることがあります。 また、Android/iOS用の記述が増加するにつれて、クラスプラットフォームのFlutterの魅力は半減してしまいます。
+提案 goにはgomobileという協力なツールがあり、Android/iOSから呼び出し可能なSDKを作成することができます。 これを利用することで、従来ではAndroid/iOS用に書かざるを得なかった内容をgoに寄せることが可能となるだけなく、 goの資産をモバイルアプリで活用することが可能になります。 そこで、実際にどのように書けば良いのかなどをサンプルコードを交えつつご紹介します。</description>
+    </item>
+    
+  </channel>
+</rss>

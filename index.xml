@@ -1,0 +1,820 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Go Conference 2021 Spring</title>
+    <link>https://gocon.jp/2021spring/</link>
+    <description>Recent content in Home on Go Conference 2021 Spring</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language><atom:link href="https://gocon.jp/2021spring/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://gocon.jp/2021spring/speakers/deepthi_goguri/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gocon.jp/2021spring/speakers/deepthi_goguri/</guid>
+      <description>I am a SQL Server Database Administrator with 7 years of experience in Administering SQL Servers. I am a Microsoft certified trainer and Microsoft certified professional with an Associate and Expert level Certification on Data Management and Analytics. I am a Blogger for DBANuggets.com</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://gocon.jp/2021spring/speakers/dqneo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gocon.jp/2021spring/speakers/dqneo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://gocon.jp/2021spring/speakers/eternal_field/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gocon.jp/2021spring/speakers/eternal_field/</guid>
+      <description>普段はバックエンドエンジニアgo, PHP, pythonがメインですが、趣味でFlutter書いてます。</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://gocon.jp/2021spring/speakers/kotaro_adachi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gocon.jp/2021spring/speakers/kotaro_adachi/</guid>
+      <description>I am Kotaro Adachi. I love snowboarding.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://gocon.jp/2021spring/speakers/makki_d/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gocon.jp/2021spring/speakers/makki_d/</guid>
+      <description>KLab株式会社 エンジニアリングマネージャー</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://gocon.jp/2021spring/speakers/matsuyoshi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gocon.jp/2021spring/speakers/matsuyoshi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://gocon.jp/2021spring/speakers/mofizur_rahman/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gocon.jp/2021spring/speakers/mofizur_rahman/</guid>
+      <description>Mofizur Rahman (@moficodes) is a Developer Advocate at IBM. His area of interests include container orchestration and micro services. His favorite programming language these days is Go. He also tinkers with Node, Python and Java. He is also learning and teaching in the Go, Kubernetes, Docker and Microservice community. He is a strong believer of the power of open source and importance of giving back to the community. He is a self proclaimed sticker collecting addict and has collected several box full of stickers with no signs of stopping.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://gocon.jp/2021spring/speakers/mohammad_shahbaz_alam/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gocon.jp/2021spring/speakers/mohammad_shahbaz_alam/</guid>
+      <description>Shahbaz is a full stack developer and open source enthusiast, Developer Advocate @ Magic Labs, GDG Ranchi Organizer, Auth0 Ambassador, and Mozilla Representative. He loves teaching and sharing his learnings at conferences and meetups related to Serverless, Authentication and Authorization, Google Technologies, Security, Web Extensions, SPAs, PWAs and VR/AR/XR.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://gocon.jp/2021spring/speakers/moto_ishizawa/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gocon.jp/2021spring/speakers/moto_ishizawa/</guid>
+      <description>株式会社カンムのソフトウェア開発者で、バンドルカードのインフラとバックエンドを主に担当。宇宙開発分野のファンでもあり、ロケットの打上げを見学するために、たびたびフロリダや種子島にでかけるなどしている。</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://gocon.jp/2021spring/speakers/mtskhs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gocon.jp/2021spring/speakers/mtskhs/</guid>
+      <description> NTTCommunicationsにて、社内ベンチャーチームに所属し、スポーツ観戦アプリSpoLiveにおいてバックエンドシステムをGoで開発している。 Gopher道場一期生として、社内のレガシーシステムの一部ををGoを用いてマイクロサービスとして更改・商用リリースしたり、社内の勉強会での講師として社内におけるGoの普及活動を行った経験がある。  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://gocon.jp/2021spring/speakers/preslav_mihaylov/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gocon.jp/2021spring/speakers/preslav_mihaylov/</guid>
+      <description>I&amp;rsquo;m a software engineer at Uber, working with microservices written in Go &amp;amp; Java.
+I&amp;rsquo;ve also been teaching programming since 2015, leading lectures &amp;amp; seminars on various topics from the programming world to both aspiring programmers &amp;amp; experienced developers from Bulgaria, Serbia, Australia, Singapore, The Philippines &amp;amp; more. Topics range from Basics of Programming to Data structures, Algorithms, Web Development &amp;amp; even Blockchain.
+In my free time, I&amp;rsquo;m maintaining todocheck - a tiny linter, written in Go which connects your TODOs to your tasks in your issue tracker.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://gocon.jp/2021spring/speakers/rafal_leszko/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gocon.jp/2021spring/speakers/rafal_leszko/</guid>
+      <description>Integration Team Lead at Hazelcast, author of the book &amp;ldquo;Continuous Delivery with Docker and Jenkins&amp;rdquo;, trainer, and conference speaker. He specializes in Java development, Cloud environments, and Continuous Delivery. Former employee in a number of companies and scientific organizations: Google, CERN, AGH University, and more.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://gocon.jp/2021spring/speakers/rashmi_nagpal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gocon.jp/2021spring/speakers/rashmi_nagpal/</guid>
+      <description>Rashmi is a Software Engineer at LoopUp LLC. She completed her post-graduate certified program from Plaksha TLF in collaboration with UC Berkeley in Computer Science last year. Outside of her work, she serves as a Global leader at Women Who Go and is passionate for women in technology. A book in hand, earphones and a hot cup of chocolate is all she needs when in melancholy.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://gocon.jp/2021spring/speakers/ryoya_sekino/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gocon.jp/2021spring/speakers/ryoya_sekino/</guid>
+      <description>Software Engineer working for UPSIDER, inc. Joining the company from the seed stage and developing the card payment service. Created and operating the payment processing system from scratch and also leading the development team for this system.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://gocon.jp/2021spring/speakers/ryuji_iwata/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gocon.jp/2021spring/speakers/ryuji_iwata/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://gocon.jp/2021spring/speakers/sushant_bhadkamkar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gocon.jp/2021spring/speakers/sushant_bhadkamkar/</guid>
+      <description>Sushant is a Staff Software Engineer at Lyft, and has over 10 years of experience building web, mobile and desktop apps. In his current role, he is responsible for building and operating distributed backend services that power core experiences in the Lyft passenger apps. He also have over 4 years of experience building application platforms using Kubernetes and other cloud native technologies.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://gocon.jp/2021spring/speakers/sylvain/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gocon.jp/2021spring/speakers/sylvain/</guid>
+      <description>I&amp;rsquo;m a full-stack developer, freelance and Go lover. Creator of Souin and xcaddy.tech, co-author of the pentest oriented tool Smersh. I&amp;rsquo;m an active open-source contributor and I love to drink beers and play baby-foot at free time.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://gocon.jp/2021spring/speakers/takashi_yoneuchi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gocon.jp/2021spring/speakers/takashi_yoneuchi/</guid>
+      <description>セキュアな世の中の実現を目指して、株式会社 Flatt Security にてプロダクト開発とWebシステムに関するセキュリティ技術の研究に従事。一般社団法人セキュリティ・キャンプ協議会や SECCON 実行委員会の一員として、情報セキュリティ技術の教育活動や、CTF（セキュリティ技術を競うコンテスト）の開催、運営にも参画している。著書に『Webブラウザセキュリティ』がある。</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://gocon.jp/2021spring/speakers/tsuji_daishiro/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gocon.jp/2021spring/speakers/tsuji_daishiro/</guid>
+      <description>I am a backend engineer working at Future Corporation.
+I like to speed up applications and think about architecture. I also like competition programming.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://gocon.jp/2021spring/speakers/wwgt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gocon.jp/2021spring/speakers/wwgt/</guid>
+      <description>Women Who Go Tokyo は、サンフランシスコ発祥の女性とジェンダーマイノリティの人々があつまる Go 言語のコミュニティである Women Who Go の東京支部です。
+ハンズオン参加登録はこちら</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://gocon.jp/2021spring/speakers/yaegashi_takeshi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gocon.jp/2021spring/speakers/yaegashi_takeshi/</guid>
+      <description>Engineer working in Japanese game industry who loves relatively lower layer technologies based on Linux/Unix eco-system. Involved in many projects including embedded/IoT Linux systems, server applications for mobile phone games, in-house software development infrastructure design.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://gocon.jp/2021spring/speakers/yamashou/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gocon.jp/2021spring/speakers/yamashou/</guid>
+      <description>Appify Technologies Software Engineerをしています。
+Go + GraphQLのサーバーとReact + ApolloのWebの開発を普段はしております。</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://gocon.jp/2021spring/speakers/yoshiki_shibukawa/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gocon.jp/2021spring/speakers/yoshiki_shibukawa/</guid>
+      <description>I am working for Future Corporation. My favorite languages are C++/Python/Go/TypeScript. My favorite backend for OpenCensus is Jaeger.
+I am an author of Real World HTTP (O&amp;rsquo;Reilly Japan) (Korean version and Japanese short free version is also available), System Programming in Golang (Lambda Note) (JP free version and its translation by Google)and other many books.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://gocon.jp/2021spring/speakers/yuki_ito/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gocon.jp/2021spring/speakers/yuki_ito/</guid>
+      <description> CTO at Kanmu, Inc. Fluentd/MessaPack committer Erlang/OTP contributor  </description>
+    </item>
+    
+    <item>
+      <title>After Party</title>
+      <link>https://gocon.jp/2021spring/sessions/party/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gocon.jp/2021spring/sessions/party/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>and factory株式会社</title>
+      <link>https://gocon.jp/2021spring/partners/bronze/andfactory/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gocon.jp/2021spring/partners/bronze/andfactory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Azure SDK for Goで学ぶGoでのWebクライアント開発</title>
+      <link>https://gocon.jp/2021spring/sessions/session-b11-s/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gocon.jp/2021spring/sessions/session-b11-s/</guid>
+      <description>GoはGoogle社発の汎用プログラミング言語ですが今やクラウド開発にも活躍の場を広げています。本カンファレンスでもGCPに絡んだセッションがいくつかありました。最近Microsoft社のAzureをAzure SDK for Goを使って触り始めました。その過程でGoでWebクライアントを開発する際のお手本やヒントがあると感じましたので共有させて頂きます。
+ 目的  Azure SDK for Goから得られたGoでWebクライアントを開発するための知見を提供する。 GCP以外のパブリッククラウドサービスにおいてもGoが使われていることを認知して頂く。  内容 現時点で想定している内容です。順序や内容など当日までに変更なる可能性があることをご了承ください。
+構成要素の紹介 今回のセッションを進める上で必要なモノの紹介（Azureに関するサービス、GitHub上のリポジトリー、など）
+Azure SDK for Goでの実装内容の解説 Goでのサンプルコードやスニペットを用いて実装例を解説（パッケージ、クライアント生成、認証、サービス利用、など）
+GoでWebクライアントを開発する際のモノ  必要になる要素とそれらを実装するためのパッケージの紹介。 Goでのサンプルコードやスニペットを用いて実装例を解説（HTTP通信、レスポンス、エラー、ログ出力、など）  その他 Azure SDKのAPIドキュメントの存在とその意義、Webクライアント開発で考慮すべき内容、など。</description>
+    </item>
+    
+    <item>
+      <title>BASE BANK</title>
+      <link>https://gocon.jp/2021spring/partners/bronze/basebank/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gocon.jp/2021spring/partners/bronze/basebank/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Break</title>
+      <link>https://gocon.jp/2021spring/sessions/_break/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gocon.jp/2021spring/sessions/_break/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Build Your Kubernetes Operator with the Right Tool!</title>
+      <link>https://gocon.jp/2021spring/sessions/session-b10-l/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gocon.jp/2021spring/sessions/session-b10-l/</guid>
+      <description>You want to build a Kubernetes Operator for your software. Which tool to choose? Operator SDK with Helm, Ansible, or Go? Or maybe start from scratch with Python, Java, or any other programming language? And what is the right phase in the Operator Capability/Maturity Model that you should provide?
+ You want to build a Kubernetes Operator for your software. Which tool to choose? Operator SDK with Helm, Ansible, or Go?</description>
+    </item>
+    
+    <item>
+      <title>Closed</title>
+      <link>https://gocon.jp/2021spring/sessions/_close/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gocon.jp/2021spring/sessions/_close/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Closing</title>
+      <link>https://gocon.jp/2021spring/sessions/closing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gocon.jp/2021spring/sessions/closing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CloudFirestoreとGo</title>
+      <link>https://gocon.jp/2021spring/sessions/session-lt8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gocon.jp/2021spring/sessions/session-lt8/</guid>
+      <description>FirebaseOpenSourceにも掲載されているFirestoreの運用ツールfsrplを開発した発表者が、FirestoreをGoで扱うための知見や、ツールfsrplについて発表する。Firestoreは近年アプリ開発においてますます重要となっているが、Goにおける知見やツールはまだ少ない。
+本発表では知見として、FirestoreをGoで扱うための基礎やツールfsrplを紹介する。
+ Purpose   CloudFirestore(以降、Firestoreと呼ぶ)をGoで扱うための知見共有
+ 公式ライブラリ Firebase Admin Go SDK の使い方 NoSQLであるFirestoreをGoらしく扱うための方法 RDBとの違いを踏まえて開発する方法    Firestoreの運用開発における課題と、開発したCLIツールfsrplの紹介
+  Firestoreだけに限らず、Goにおけるデータ変換テクニックや、NoSQLをGoで扱う方法といった一般的な知見の共有
+  Why Firestore  Firestoreは、ドキュメント指向のNoSQLデータベースである。特徴としてWebsocket通信によるリアルタイムでのデータ連携が可能であり、2019年初めにβ版から正式版となり東京リージョンが増えたことでアプリ開発における重要性が高まっている。  一方で、まだ新しい技術であるため、商用利用している人もまだ少なく、Goで扱うための知見やツールについても、まだまとまったものはないように思う。 発表者は、業務にてFirestoreをメインDBとして開発した商用アプリSpoLiveにおいて、主にそのバックエンド(Firestoreへのデータ連携)を担当している。この開発における知見を共有する。    </description>
+    </item>
+    
+    <item>
+      <title>cobra-cmder: Goの言語機能を活用したシンプルなCLIツール構成法</title>
+      <link>https://gocon.jp/2021spring/sessions/session-b4-s/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gocon.jp/2021spring/sessions/session-b4-s/</guid>
+      <description>この講演では筆者が愛用するcobra-cmderというライブラリと共に構成するGoのCLIツールの開発手法について紹介します。cobra-cmderは既存の著名なライブラリであるspf13/cobraを利用していますが、リフレクションや構造体埋め込みといったGoの言語機能の活用によりCLIツールのシンプルな実装を実現していることが特徴です。グローバル変数やinit()を使わず、サブコマンド単位の共通のデータ変数・関数の管理やユニットテストが簡便であり、またサブコマンドの追加も既存コードの変更なしで可能という利点があります。筆者がこれまでに作成したCLIツールの事例とあわせて説明します。
+講演で取り上げるライブラリ cobra-cmder および CLI ツール事例は次の場所にあります。
+ https://github.com/yaegashi/cobra-cmder https://github.com/yaegashi/contest.go https://github.com/yaegashi/azbill https://github.com/yaegashi/customazed  </description>
+    </item>
+    
+    <item>
+      <title>Code of Conduct</title>
+      <link>https://gocon.jp/2021spring/code-of-conduct/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gocon.jp/2021spring/code-of-conduct/</guid>
+      <description>Go Community Code of Conduct We require our attendees and speakers to follow Go Community Code of Conduct.</description>
+    </item>
+    
+    <item>
+      <title>Dive into Go Protocol Buffers API v2 with the new reflection features</title>
+      <link>https://gocon.jp/2021spring/sessions/session-b6-s/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gocon.jp/2021spring/sessions/session-b6-s/</guid>
+      <description>Protocol Buffers API v2が2020年にリリースされました。v2では、コード生成のライブラリなど開発者のインターフェースに関わる変更に加えて、Reflectionのサポートが提供されるようになりました。このReflection機能は、GoのビルトインのReflectionのように、Protocol Buffersのメッセージを動的に操作・参照することを可能にしてくれます。このトークでは、v2がリリースされた背景や変更点にも触れつつ、このReflection機能に焦点をあてて、サンプルコードを用いたりソースを追いかけながら使い方を紹介していきたいと思います。
+ 得られること  Protocol Buffers API v2がリリースされた背景と大きな変更点 protoreflectの機能を使うことで何ができるか、実際にどのように使えばいいのか  主な対象者  Protocol Buffers(gRPC含む)を使っている方 Protocol Buffers API v2でなにができるようになったのか、とりあえず知っておきたい方 Protocol Buffers(gRPC含む)に対して、動的なメッセージ操作・参照をしてみたい方 protoreflectを多少触ってみたけど、まだよくわかっていない方  主なアジェンダ  Why was the API v2 released? What was the remarkable changes on v2? Dive into protoreflect  メインのアジェンダでは、実際のユースケースを想定したコードを用いて、protoreflectの具体的な使い方を説明します。その中で、内部実装やライブラリの全体像についても触れたいと思います。
+また、Protocol Buffersをそもそも触ったことがない方にも向けて、最低限ですが、そもそもProtocol Buffersがどんなものであるかも説明したいと思います。</description>
+    </item>
+    
+    <item>
+      <title>Dummy</title>
+      <link>https://gocon.jp/2021spring/sessions/_dummy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gocon.jp/2021spring/sessions/_dummy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fabricating Community : One Byte At A Time</title>
+      <link>https://gocon.jp/2021spring/sessions/session-lt7/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gocon.jp/2021spring/sessions/session-lt7/</guid>
+      <description>From founding &amp;amp; running non-profit tech-community &amp;amp; being a sole women founder in a country of social restrictions, I would love to share the importance of having tech-community &amp;amp; how one can build/nurture it from absolute zero.
+ Can you help me in making a difference? Can we build a welcoming, diverse and inclusive community or can we be ONE? Allow me to share my experiences and lesson’s learnt to get involved in the Go community.</description>
+    </item>
+    
+    <item>
+      <title>FlutterとGoを組み合わせたモバイルアプリケーション開発</title>
+      <link>https://gocon.jp/2021spring/sessions/session-a11-s/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gocon.jp/2021spring/sessions/session-a11-s/</guid>
+      <description>FlutterはGoogleが開発したクロスプラットフォーム向けモバイルアプリケーションフレームワークです。
+しかし、現実的にはiOS/Androidのためにそれぞれコードを書く場合は避けられません。その量が肥大化するにつれてFlutterの魅力は半減してしまいます。
+そこで今回はできる限りiOS/Android用にコードを書くことを避けるために、Flutterからgo mobileで作成したiOS/Android用に作成したSDKを利用する方法とそのパターンをご紹介します。
+ 目標 このトークの目標は「クロスプラットフォームなモバイルアプリ開発でgoの活用できること」を伝えることです。
+課題 FlutterはGoogleが開発したクロスプラットフォーム向けではあるものの、 過去の資産を利用するためにAndroid/iOS用にそれぞれ別ライブラリや記述することは避けられません。 結果として意図せぬ依存を生むことになってしまい、バグを含む原因となることがあります。 また、Android/iOS用の記述が増加するにつれて、クラスプラットフォームのFlutterの魅力は半減してしまいます。
+提案 goにはgomobileという協力なツールがあり、Android/iOSから呼び出し可能なSDKを作成することができます。 これを利用することで、従来ではAndroid/iOS用に書かざるを得なかった内容をgoに寄せることが可能となるだけなく、 goの資産をモバイルアプリで活用することが可能になります。 そこで、実際にどのように書けば良いのかなどをサンプルコードを交えつつご紹介します。</description>
+    </item>
+    
+    <item>
+      <title>Generate image from source code written in Go</title>
+      <link>https://gocon.jp/2021spring/sessions/session-lt6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gocon.jp/2021spring/sessions/session-lt6/</guid>
+      <description>Go言語には、画像処理のための標準パッケージ、フォント周りの準標準パッケージが提供されています。 これらのパッケージを用いて、JS製のCarbonやRust製のSiliconのようなソースコード画像化ツールを作成しました。本セッションでは画像処理やフォント周りのパッケージの使用方法、GoにおけるCLIツール作成の良さを紹介します。</description>
+    </item>
+    
+    <item>
+      <title>Go Channels Demystified</title>
+      <link>https://gocon.jp/2021spring/sessions/session-a3-l/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gocon.jp/2021spring/sessions/session-a3-l/</guid>
+      <description>Go makes concurrency a breeze. But with concurrency comes the trouble of managing info between multiple concurrent process. Thats where channels come in. But do we know all channels has to offer? How can we make better use of this language construct? This is what this talk is about.
+ We are in the era of fast computing. Single threaded programs are often incapable of handling workloads for a modern program.</description>
+    </item>
+    
+    <item>
+      <title>Go をセキュアに書き進めるための「ガードレール」を整備しよう</title>
+      <link>https://gocon.jp/2021spring/sessions/session-b7-s/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gocon.jp/2021spring/sessions/session-b7-s/</guid>
+      <description>セキュリティはいつでも開発者の不安のタネです。「うちの入社1年目の若手開発者はセキュアな Go コードを書けているのか」「彼/彼女のメンターはちゃんとセキュリティ上の問題を発見できているのか」というのは、マネージャ層から見ても悩みのタネでしょう。 しかし、よくある Go コードのセキュリティ上の問題や、一度人力で見つけた脆弱なコードパターンを CI 中で検出してやれたらどうでしょうか。きっと開発者も、チームのマネージャーも、もっと安心してプロダクトを前に進められるはずです。本発表ではあなたやあなたのチームを助けてくれる、Go コードのための「ガードレール」を整備するための方法をお伝えします。
+ 背景 Go に限らず「セキュアなコードに書く」 というのは難しいものです。「他の人にセキュアなコードを書いてもらう」というのは更に難しいものです。 このような課題意識のもと、近年は Go コードのセキュリティチェックのために利用できるツールが盛んに開発されています。
+その一例が gosec という、Go コードの簡易的なセキュリティスキャンを行うためのツールです。gosec による簡易スキャンを CI パイプラインの中に適切に組み込まれることで、開発者は初歩的なセキュリティ上の問題を開発早期に発見できるようになります。 また、go-ruleguard を始めとした、Go コードに対する自組織固有の lint ルールを適用するためのツールチェインの開発も進められています。このようなツールを用いて危険なコードパターンを lint ルールとして蓄積していくことで、自組織のコードベースを更に強固なものにしていくことができます。
+これらのツールはいわば Go 開発者を守る「ガードレール」とも呼べるものです。手元で利用すれば自分がセキュアな Go コードを書くための助けになることでしょう。また、CI パイプラインの中に組み込めば組織の Go コードの問題を早期発見するための支えになること請け合いです。
+本発表の概要 本発表では、gosec や go-ruleguard といった「ガードレール」たちを、その動作を支える go/analysis や go/ast の簡単な説明とともに紹介します。これにより聴衆は、セキュアなコードを書き進めるための補助となるツールの存在と、その用法・原理を知ることができます。
+それに加えて、本発表ではそれらのツールを CI 中で実運用する上で課題となる「問題の誤検知」への対応方法として、reviewdog を用いたアプローチを提案します。これにより本発表の聴衆は、Go コードのセキュリティを組織的に・継続的に維持していくための方法を学ぶことができます。
+さらに、これらの説明の中で用いられるツールや CI の設定例は全て GitHub 上に公開されています(公開物の一覧はこちら)。本発表を通して得た背景知識と、これらの設定例は、聴衆が実際に「ガードレール」を設置していく作業の支えになることでしょう。</description>
+    </item>
+    
+    <item>
+      <title>Going places...during an outage</title>
+      <link>https://gocon.jp/2021spring/sessions/session-a4-s/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gocon.jp/2021spring/sessions/session-a4-s/</guid>
+      <description>Building an effective fallback in a distributed system can be hard. Should our systems simply give up during an outage then? Or can we do better? Join to learn some of the challenges of building a fallback and how we overcame them to reduce business impact, and not leave all our users stranded.
+ Lyft is ride hailing app that helps users find nearby drivers and quickly get to a place they want to go.</description>
+    </item>
+    
+    <item>
+      <title>Go製のネットワーククライアントに対する継続的Fuzzing</title>
+      <link>https://gocon.jp/2021spring/sessions/session-a7-s/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gocon.jp/2021spring/sessions/session-a7-s/</guid>
+      <description>Fuzzing とは fuzz と呼ばれる予測不可能なデータをインプットとして与えることによりその不具合を発見するテスト手法です。このセッションでは Fuzzing の概要、Goで書かれたソフトウェアに対する Fuzzing の手法、クレジットカード決済のためのISO8583というプロトコルを話すGoで書かれたネットワーククライアントに対して実践している継続的Fuzzingの実例について紹介します。
+  Fuzzing とは Go で書かれたソフトウェアに対する Fuzzing 継続的に Fuzzing を行っている実例と課題  </description>
+    </item>
+    
+    <item>
+      <title>Go言語仕様書にコントリビュートしよう</title>
+      <link>https://gocon.jp/2021spring/sessions/session-lt5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gocon.jp/2021spring/sessions/session-lt5/</guid>
+      <description>Go言語仕様書に複数のパッチと変更提案を送って採択されました。
+Go言語仕様書はGo言語の公式ドキュメントの中でも最も重要なもので、改善の余地があるという発想をする人はあまりいないようです。しかし実はよく読むと改善の余地がまだまだあります。 全部英語で書かれてるので一見ハードルが高そうな気がしますが、むしろ逆に英語ネイティブでないからこそ可読性の問題点を見つけやすかったりします。
+どこに着目して、どのように考え、どのように提案したか、実例をもとに紹介します。 みんなでGo言語仕様を良いものにしていきましょう！
+  言語仕様書に複数回コントリビュートしました 仕様書にはあいまいな表現がわりとよくある 英語文章の可読性改善 サンプルコードの可読性改善 具体的な変更提案の仕方 失敗を恐れない  </description>
+    </item>
+    
+    <item>
+      <title>Go言語低レイヤー入門 Hello world が画面に表示されるまで</title>
+      <link>https://gocon.jp/2021spring/sessions/session-a5-l/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gocon.jp/2021spring/sessions/session-a5-l/</guid>
+      <description>fmt.Print(&amp;ldquo;hello world\n&amp;rdquo;) この hello world がターミナルに表示されるまで、Go言語の処理系でどのようなことが行われているか、考えたことはあるでしょうか？
+本トークでは、fmt.Print() の呼び出しを底の底まで探り、Go言語の処理系がOSとどのように相互作用して画面に文字を表示するのかを詳しく解説します。
+このトークを聞くことで、あなたは下記の領域へのとっかかりを得ることができるようになるでしょう。
+ Go言語とシステムコールの関係 Goアセンブリの読み方 自分でシステムコールを叩く方法 自作Goコンパイラの始め方    最小のプログラムはどう動いてるのか Go言語とruntime Go言語とシステムコール Hello world のシステムコールを見てみよう (strace, gdb, コードリーディング) Goアセンブリの読み方 Hello world を低レイヤー版で書き直す (ライブコーディング)  </description>
+    </item>
+    
+    <item>
+      <title>GraphQLライブラリ gqlgencを作成した</title>
+      <link>https://gocon.jp/2021spring/sessions/session-a8-s/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gocon.jp/2021spring/sessions/session-a8-s/</guid>
+      <description>GraphQLのQueryからクライアントを自動生成するgqlgencを作成しました。本発表では、GraphQLクライアントに必要な構成要素、実装方法、ライブラリを解説します。これらを知ることでGraphQLのクライアントツールをGoで実装可能になります。既存のライブラリはJSONを取得する機能だけを持ち、開発者が構造体へのMarshalingやQueryに対応する型を定義する必要があります。この手法ではQueryの数に応じて実装コストが増加するため開発者へ負担が大きいです。この問題を解決するためにGraphQL Queryから構造体とクライアントを自動生成生成するライブラリを作成しました。
+ 概要 GraphQLのQueryからクライアントを生成するライブラリgqlgencを作成しました。既存にもいくつかGraphQLのライブラリは存在していますが、開発者が構造体へのMarshalingや、Queryごとに対応する型を定義する必要があります。GraphQLは独自のQuery文法によって表現力が高いので、それでは開発者への負担が大きくなります。それを解決するためにQueryからレスポンスの構造体とクライアントを生成するライブラリを作成しました
+問題提起 現在GraphQLのAPIクライアントで必要となる要素は以下のものが最低限あります
+ GraphQL Schema Parser : GraphQLスキーマを静的解析してASTツリーを作る Introspection to Client Schema：サーバーからSchema情報を取得してASTツリーを作る GraphQL Query Parser：GraphQLクエリーを静的解析してASTツリーを作る GraphQL Query Response Model Generator：スキーマとクエリーのASTからGraphQLの型を生成する GraphQL Client Generator：生成された型を利用してGraphQLのリクエストとレスポンスを受けるコードを生成する GraphQL JSON Parser：GraphQL特有のJSONをパースして、生成された型にマッピングする  GoにもGraphQLのクライアントはいくつか存在しています。
+ github.com/shurcooL/graphql github.com/machinebox/graphql  しかし、これらはシンプルなクライアントとなっており、上記の条件を満たしているものではありません。そうなると、開発者への負担が大きくなってしまいます。実際クライアントを使ってみて、Queryを変更する度に構造体を手動で直さないといけなくなってしまい、二重管理が大変でしたし、Queryの数が多くなると、ミスやバグが目立つようになりました。
+考察 そこで上記のリストに当てはまるものがGoで存在しないかをまず探しました。
+ GraphQL Schema Parser : https://github.com/vektah/gqlparser Introspection to Client Schema：見つかりませんでした GraphQL Query Parser： https://github.com/vektah/gqlparser GraphQL Query Response Model Generator： https://github.com/99designs/gqlgenがModelのみ生成 GraphQL Client Generator：見つかりませんでした GraphQL JSON Parser：github.com/shurcooL/graphql  gqlgenというGoのGraphQLサーバーを作成するライブラリ周りで、SchemaやModel周りはサーバーと共通なので、同じように扱うことができそうでしたし、gqlgenのプラグイン機構を利用すれば、SchemaとQueryのASTのツリーを取得することが可能であることがわかりました。しかし、クライアント向けに特に必要な機能がいくつか見当たりませんでしたので、これらは自前で用意する必要がありそうだと考えました。よって以下を実装する必要があります
+  Introspection to Client Schema</description>
+    </item>
+    
+    <item>
+      <title>Hands-on &amp; Office hour</title>
+      <link>https://gocon.jp/2021spring/sessions/_handson_officehour/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gocon.jp/2021spring/sessions/_handson_officehour/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How do I made a powerful cache system using Go</title>
+      <link>https://gocon.jp/2021spring/sessions/session-lt4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gocon.jp/2021spring/sessions/session-lt4/</guid>
+      <description>I’m Træfik user since v1.4 but there was no caching system. I scrolled over the internet to know if any solution exists but nothing appear then I decided to write my own Træfik cache system.
+ I discovered Go language but didn’t have any time to follow multiples tutorials to learn it. But one day I discovered Træfik reverse-proxy project when I wanted to switch my infrastructure into fully dockerized one.</description>
+    </item>
+    
+    <item>
+      <title>Kubernetes から学んだ Go の設計論</title>
+      <link>https://gocon.jp/2021spring/sessions/session-a1-c/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gocon.jp/2021spring/sessions/session-a1-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning unsung gotchas of Go</title>
+      <link>https://gocon.jp/2021spring/sessions/session-lt3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gocon.jp/2021spring/sessions/session-lt3/</guid>
+      <description>How about saving yourself from natural traps? How about saving yourself from faulty assumptions and loopholes in details? Fear not! Let&amp;rsquo;s delve deeper into the most simplistic and fun language, i.e. Go with care!
+ Go is one of the simplistic, neat and effective language but it has few gotchas. These gotchas run the gamut from minor syntactic annoyances to psychological behaviour. By sharing the invaluable references - this talk will give the taste of various gotchas which will henceforth save Go programmer&amp;rsquo;s time and wasted effort.</description>
+    </item>
+    
+    <item>
+      <title>Lunch</title>
+      <link>https://gocon.jp/2021spring/sessions/_lunch/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gocon.jp/2021spring/sessions/_lunch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mastering Tags of Structs - Goの構造体とタグを極める</title>
+      <link>https://gocon.jp/2021spring/sessions/session-b5-l/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gocon.jp/2021spring/sessions/session-b5-l/</guid>
+      <description>Struct and its tag are important building blocks to create large applications. They reduce boring codes and make application more declarative and help to write enterprise application, but creating library to process tag requires much amount of code with reflection / typing.
+Goで大規模アプリケーションを作るためのビルディングブロックは、構造体とタグです。手続き的なコードを減らし、宣言的に解決する手法はGoをエンタープライズ開発で活用するためにますます必要となると思いますが、自作するにはタグを処理するコーディングは多数の型を網羅するコーディングが必要で長くなります。
+This presentation introduce tag processing patterns that uses reflect package and understanding about tag, and how to handle tag to the people who are responsible for Go application architecture.</description>
+    </item>
+    
+    <item>
+      <title>Mattermost, Inc</title>
+      <link>https://gocon.jp/2021spring/partners/bronze/mattermost/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gocon.jp/2021spring/partners/bronze/mattermost/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Microsoft Azure 向け Go SDK の最新動向・開発体制・コード生成戦略</title>
+      <link>https://gocon.jp/2021spring/sessions/session-lt2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gocon.jp/2021spring/sessions/session-lt2/</guid>
+      <description>Azure REST API や Microsoft Graph API といった Microsoft クラウドサービスの API 向けの Go SDK のアーキテクチャ、開発体制、コード生成戦略、最新動向について紹介します。現在開発進行中の新バージョンや Terraform のような周辺ツールとの関係についても触れます。
+ 主に次のプロジェクトで進行中の出来事について説明します。
+ https://github.com/Azure/azure-sdk-for-go https://github.com/Azure/autorest.go https://github.com/Azure/go-autorest https://github.com/hashicorp/terraform-provider-azurerm https://github.com/hashicorp/terraform-provider-azuread https://github.com/yaegashi/msgraph.go https://github.com/yaegashi/terraform-provider-msgraph  </description>
+    </item>
+    
+    <item>
+      <title>Office hour</title>
+      <link>https://gocon.jp/2021spring/sessions/officehour/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gocon.jp/2021spring/sessions/officehour/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Opening</title>
+      <link>https://gocon.jp/2021spring/sessions/opening/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gocon.jp/2021spring/sessions/opening/</guid>
+      <description>Opening talk.</description>
+    </item>
+    
+    <item>
+      <title>Secure your Go APIs with Decentralised Identity Tokens</title>
+      <link>https://gocon.jp/2021spring/sessions/session-a6-s/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gocon.jp/2021spring/sessions/session-a6-s/</guid>
+      <description>After so many breaches and passwords leaks, developers must reunite and reinvigorate APIs to protect their Applications, making the internet a secure global public resource, open and accessible to all. In this talk, I will cover how to secure your Go APIs using Decentralised Identity Tokens.
+ The APIs keeps changing, and the programming languages like Go are shifting the paradigm of API consumption. We often dedicate a lot of time to craft powerful APIs but overlook proper security measures.</description>
+    </item>
+    
+    <item>
+      <title>Sharing test cases of internet protocol with Go and OCI Artifacts</title>
+      <link>https://gocon.jp/2021spring/sessions/session-b8-s/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gocon.jp/2021spring/sessions/session-b8-s/</guid>
+      <description>インターネットは様々なプロトコルとその実装によって支えられています。しかしながら、モダンなプロトコルの仕様は複雑化しており、プロトコルを安全に正しく実装することがますます難しくなっています。このトークでは Go と OCI Artifacts を活用して、プロトコルの仕様に関するテストケースを開発者間で共有し、テストを容易にする試みについてご紹介します。
+ このトークでは Go と OCI Artifacts を利用して開発した protospec というツールを使用して、プロトコルのテストケースをサーバーやクライアントの開発者間で共有し、テストを容易にするための仕組みについて説明します。
+protospec は YAML ファイルに記述されたプロトコルのテストケースを読み込み、サーバーやクライアントに対してテストを実行できます。テストケースを記述した複数の YAML ファイルは OCI Artifacts を使用して1つコンテナイメージとして保存でき、そのイメージは一般的なコンテナイメージと同様に、コンテナレジストリを通じて他の開発者と共有可能になっています。protospec は全て Go で実装されており、テストの実行やテストケースの共有などの機能を Go でどのように実装したかについて説明する予定です。
+得られる知識 このトークは、参加者が以下の知識を獲得できることを想定しています。
+ プロトコルの実装におけるテストの課題 プロトコルの仕様に対するテストの方法 Go で OCI Artifact を操作するための実装方法  前提知識 このトークでは以下の前提知識を必要とする想定です。
+ Go の構文についての簡単な理解 インターネットプロトコルについての簡単な理解  アジェンダ このトークでは以下のようなトピックについてお話する予定です。
+ プロトコル実装における課題  テストケースの実装が難しい テストケースの共有がしにくい   HTTP/2 のテストツールによる試み  h2spec の開発と利用例の紹介 h2spec における課題   より汎用的なテストツールの開発  DSL でテストケースが実装できる protospec OCI Artifact を利用したテストケースの共有 Go で OCI Artifact を操作するための実装例の紹介   今後の展望  プロトコル実装のプラグイン化    関連リンク トークで紹介する protospec のコードは後日 GitHub で公開予定です。</description>
+    </item>
+    
+    <item>
+      <title>Thread-Safety in Go - An Overlooked Concern</title>
+      <link>https://gocon.jp/2021spring/sessions/session-a10-l/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gocon.jp/2021spring/sessions/session-a10-l/</guid>
+      <description>A not so glamorous part of studying concurrency in Go is understanding how to write thread-safe code.
+Even though it&amp;rsquo;s an important concern, it is often overlooked in most resources on concurrency.
+This talk will bridge the gap and cover the basics but also provide guidance on further studies.
+ In the talk we&amp;rsquo;ll explore several important topics, which form the fundamentals of thread-safety:
+ Why study it in the first place?</description>
+    </item>
+    
+    <item>
+      <title>Understanding the Statistics in SQL Server</title>
+      <link>https://gocon.jp/2021spring/sessions/session-lt1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gocon.jp/2021spring/sessions/session-lt1/</guid>
+      <description>Are you new to performance tuning and confounded by statistics? Do you wonder where these statistics come from, and how the optimizer gets the estimates from statistics? Join me and learn more
+ Join me as we dive deep into cardinality estimation, how SQL Server uses statistics to build execution plans, where to find information about how statistics got used and why managing statistics is vital to performance.
+This session will have awesome demos showcasing practical examples of how the optimizer uses statistical information for all those crazy queries you write.</description>
+    </item>
+    
+    <item>
+      <title>ウォンテッドリー株式会社</title>
+      <link>https://gocon.jp/2021spring/partners/gold/wantedly/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gocon.jp/2021spring/partners/gold/wantedly/</guid>
+      <description>ウォンテッドリーは『シゴトでココロオドル人をふやす』ためにはたらくすべての人が共感を通じて「であい」「つながり」「つながりを深める」ためのビジネスSNS Wantedly を提供しています。 シゴトでココロオドルとは、仕事に没頭し成果を上げ、継続的に成長を実感する状態と私たちは定義しております。没頭に必要な3要素、自律・共感・挑戦を実現するプロダクトを開発運営し、ミッションの実現を目指して参ります。</description>
+    </item>
+    
+    <item>
+      <title>カンムとGo (仮)</title>
+      <link>https://gocon.jp/2021spring/sessions/session-a2-c/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gocon.jp/2021spring/sessions/session-a2-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>フューチャー株式会社</title>
+      <link>https://gocon.jp/2021spring/partners/bronze/future/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gocon.jp/2021spring/partners/bronze/future/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ホットリロードツールの作り方</title>
+      <link>https://gocon.jp/2021spring/sessions/session-b3-l/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gocon.jp/2021spring/sessions/session-b3-l/</guid>
+      <description>サーバプログラムを書いている時、ソースコードを書き換えるたびにビルド・再起動するのは手間です。 このようなとき、ソースコードの変更を検知して、自動でビルド・再起動してくれるホットリロードツールが便利です。 Go言語でも、realizeやairなど、いくつものホットリロードツールが公開されています。
+ホットリロードツールに必要な機能は大きく分けて次の2つです。
+ ファイルの更新を監視する プログラムを起動・再起動する  拙作のシンプルな汎用ホットリロードツール「arelo」において、これらの機能をどのように実装しているかを解説します。
+ 発表の目的 Go言語は実行するためにコンパイルする必要があります。 開発中の動作確認では、一般的なコマンドラインツールではgo runコマンドを使えばビルドと実行を一度にできて便利ですが、 サーバプログラムの場合、古いプロセスの停止、ビルドと実行、クライアントからの動作確認、と大幅に手間が増えてしまいます。 このため、古いプロセスのまま動作確認をして、変更が反映されていなくて悩んだ覚えがある人は多いでしょう。
+このようなとき、ファイルの変更を検知して再起動してくれるホットリロードツールがあると便利です。 Go言語用にもいくつものホットリロードツールが公開されています。 少し前まではrealizeが定番のツールでしたが、Go Modulesに対応しないまま更新が止まってしまいました。 最近ではairもありますが、私もareloというツールを作っています。
+この発表では、ホットリロードツールに必要な機能とその実装方法について、areloでの実例を使って解説します。 これらを理解することで、いざというときには自分自身でホットリロードツールを作れるようになることをゴールとします。
+ホットリロードツールに必要な機能 ホットリロードツールの機能の中心は、ファイルの変更を検知し、指定されたプログラムを再起動することです。
+ファイル監視では、更新だけでなく、作成や削除、属性変更も検知する必要があります。 加えて、プログラムの動作に関係のあるファイルの変更だけを区別して検知しなくてはなりません。
+また、プログラムを再起動するときには既に起動しているプロセスを確実に停止する必要があります。 特定のポートをListenする場合など、古いプロセスが残っていると新しいプロセスはListenできません。 さらに、子プロセスを立ち上げていた場合、それらも含めて停止しないと期待通りに動かなくなってしまいます。
+ファイル監視の実装方法 ファイル監視の定番ライブラリとして、fsnotifyがあります。 これを用いて特定ディレクトリ以下のすべてのファイルを監視する方法を解説します。
+また、プログラムの動作に関係するかどうかはファイル名で判断するのがよくあるパターンです。 ここでは、globパターンでのマッチングとして、標準ライブラリのfilepath.Match()や拡張パターンの使えるdoublestarを紹介します。
+プログラムのプロセス管理方法 Goから外部プロセスを起動するには標準パッケージのexecが使えます。 一方でプロセスの停止、特に子プロセスを含めた場合は一筋縄ではいきません。
+Unix系OSでのシグナルを利用する方法（参考）の他、 WindowsでのTASKKILLコマンドを利用した方法を解説します。
+加えて、プロセスが停止するまで待つ方法や、待っている間のファイル変更通知を無視する方法なども紹介します。</description>
+    </item>
+    
+    <item>
+      <title>メディアドゥ Go 活用事例の紹介</title>
+      <link>https://gocon.jp/2021spring/sessions/session-a12-c/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gocon.jp/2021spring/sessions/session-a12-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>実務で役立つTCPクライアントの作り方</title>
+      <link>https://gocon.jp/2021spring/sessions/session-a9-s/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gocon.jp/2021spring/sessions/session-a9-s/</guid>
+      <description>netパッケージを用いて比較的容易にTCPクライアントを実装できますが、実務で安定的に使用できるクライアントに仕上げるためにはいくつかポイントがあります。実務で求められる低レイテンシな通信が必要な場合、TCPクライアントで「コネクションプーリング」することは必須です。また瞬断が発生し、一時的に接続できなかった場合を考慮して「リトライ」を考慮する必要がありますし、ブロッキングな通信となり得る場合は「タイムアウト」を実装することが必須です。
+netパッケージのAPIを踏まえて、実務で使用できる信頼性の高いTCPクライアントライブラリをGoで設計実装するためのポイントを紹介します。
+ アプリケーションプロトコルの多くはTCP上の通信として実装されます。HTTPやFTPなど多くのユーザに利用されるプロトコルは net/http といった標準ライブラリや jlaffaye/ftp といったサードパーティのライブラリとして実装されています。一方で業務アプリケーションによっては、業務固有のプロトコルなどが存在します。その1つに工場内に設置されているセンサーなどの物理機器を制御するためのMCプロトコルがあります。私はMCプロトコルを用いてサーバと通信できる go-mcprotocol というTCPクライアントライブラリをGoで実装しました。
+独自のTCPクライアントを実装し、実務のプロダクション環境で使えるような品質に仕上げていくには、以下の考慮したいポイントがあります。
+ タイムアウト コネクションプーリング リトライ エラーハンドリング  Goの net パッケージを利用してMCプロトコルを扱うTCPクライアントライブラリを実装した知見から、開発者がGoでTCPクライアントライブラリを作成するときに役に立つ情報を提供したいと考えています。</description>
+    </item>
+    
+    <item>
+      <title>実況！Gopher あみぐるみ</title>
+      <link>https://gocon.jp/2021spring/sessions/handson2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gocon.jp/2021spring/sessions/handson2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>弁護士ドットコム株式会社</title>
+      <link>https://gocon.jp/2021spring/partners/silver/bengoshi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gocon.jp/2021spring/partners/silver/bengoshi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>抽選で150名にBAYSTARS LAGER &amp; BAYSTARS ALE プレゼント！？（仮</title>
+      <link>https://gocon.jp/2021spring/sessions/session-a13-c/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gocon.jp/2021spring/sessions/session-a13-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>数で遊ぼう 〜 コマンドラインツールで数を操る</title>
+      <link>https://gocon.jp/2021spring/sessions/handson1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gocon.jp/2021spring/sessions/handson1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>株式会社 Mobility Technologies</title>
+      <link>https://gocon.jp/2021spring/partners/silver/mobilitytechnologies/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gocon.jp/2021spring/partners/silver/mobilitytechnologies/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>株式会社カミナシ</title>
+      <link>https://gocon.jp/2021spring/partners/silver/kaminashi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gocon.jp/2021spring/partners/silver/kaminashi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>株式会社カンム</title>
+      <link>https://gocon.jp/2021spring/partners/gold/kanmu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gocon.jp/2021spring/partners/gold/kanmu/</guid>
+      <description>株式会社カンムは「心理的unbankedをソフトウェアで解決する」をミッションに、Visaプリペイドカードアプリ『バンドルカード』を運営する会社です。
+バンドルカードは300万ダウンロードを突破、さらに現在、決済x投資領域の新規プロダクトも開発中で、さらなる成長を目指して活動中です。
+エンジニアは現在8名とスモールチームで、バックエンドをGo/Python、フロントエンドをReact/React Nativeで開発しています。 当日みなさまとお話しできることを楽しみにしております！</description>
+    </item>
+    
+    <item>
+      <title>株式会社ディー・エヌ・エー / DeNA Co., Ltd.</title>
+      <link>https://gocon.jp/2021spring/partners/gold/dena/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gocon.jp/2021spring/partners/gold/dena/</guid>
+      <description>DeNAは、「一人ひとりに 想像を超えるDelightを」のミッションのもと、エンターテインメントと社会課題領域の両軸で事業を展開しています。ゲームを中心としたエンターテインメント領域で培った課題解決メソッドを応用し、社会保障費軽減に向けた持続可能なヘルスケアサービスや、スポーツを軸とした賑わいのあるまちづくりのほか、社会のさまざまな課題解決を支援しています。主な事業領域はゲーム、スポーツ、ライブストリーミング、ヘルスケア、オートモーティブで、バーチャルからリアルな事業まで、一貫して社会に新たなDelightの創造・提供を届けていきます。
+DeNA (pronounced &amp;ldquo;D-N-A&amp;rdquo;) aims to entertain and to serve through our businesses, under our mission to delight people beyond their wildest dreams. DeNA has cultivated expertise and insight in internet and AI technology, and engages in both internet services and businesses in real spaces. Forming alliances with business partners is also a key core competence for DeNA. DeNA&amp;rsquo;s major business areas are in mobile games, sports, live streaming, healthcare, and automotive.</description>
+    </item>
+    
+    <item>
+      <title>株式会社ビデオマーケット</title>
+      <link>https://gocon.jp/2021spring/partners/bronze/videomarket/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gocon.jp/2021spring/partners/bronze/videomarket/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>株式会社ビデオマーケット</title>
+      <link>https://gocon.jp/2021spring/partners/green/videomarket/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gocon.jp/2021spring/partners/green/videomarket/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>株式会社メディアドゥ</title>
+      <link>https://gocon.jp/2021spring/partners/gold/mediado/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gocon.jp/2021spring/partners/gold/mediado/</guid>
+      <description>私たちメディアドゥは、電子書籍を読者に届けるために「テクノロジー」で「出版社」と「電子書店」を繋ぎ、その先にいる作家と読者を繋げる「電子書籍取次」事業を展開しております。業界最多のコンテンツラインナップとともに最新のテクノロジーを駆使した各種ソリューションを出版社や電子書店に提供し、グローバル且つマルチコンテンツ配信プラットフォームを目指しています。</description>
+    </item>
+    
+    <item>
+      <title>株式会社メルカリ</title>
+      <link>https://gocon.jp/2021spring/partners/silver/mercari/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gocon.jp/2021spring/partners/silver/mercari/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>検索エンジン自作入門</title>
+      <link>https://gocon.jp/2021spring/sessions/session-b9-s/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gocon.jp/2021spring/sessions/session-b9-s/</guid>
+      <description>仕事でElasticsearchを使っているエンジニアが全文検索技術を学ぶためにGoで全文検索エンジンの自作に入門しました。全文検索エンジンは実装が難しいものと思いきや、シンプルな全文検索エンジンであれば簡単に実装できてしまうということを聴衆に伝え、全文検索エンジンを実装や情報検索に興味を持っていただける発表を行います。対象聴衆は「転置インデックス」という単語を聞いたことがあるくらい検索初心者です。Goでの形態素解析についてや連結リストでの転置インデックスの実装についても触れる予定です。
+ はじめに 技術面とプロダクト面の面白さから情報検索への興味が強いため、さらに詳しくなりたいと思い検索エンジンの自作をはじめました。 検索エンジンの仕組みは大雑把に知っていましたが、実際に自分で作ってみると勉強になることが多かったです。 発表を通じて検索エンジンの技術的な面白さと、既にあるものを自作する楽しさについて触れていきます。
+対象 全文検索エンジンをなんとなく使っていて、もう少し詳しく知りたい人 検索エンジンを自作したい人 検索が好きな人
+アウトライン  なぜ検索エンジンを実装するのか Indexerの実装  インデックスの圧縮 連結リストを用いた転置インデックスの実装 転置インデックスの永続化   Searcherの実装  スコア計算   Analyzerの実装  Analyzerの設計 Goでの形態素解析の紹介    </description>
+    </item>
+    
+  </channel>
+</rss>
